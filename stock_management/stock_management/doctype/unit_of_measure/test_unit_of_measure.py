@@ -4,5 +4,5 @@
 # import frappe
 import unittest
 
-class TestUnitofMesaure(unittest.TestCase):
+class TestUnitofMeasure(unittest.TestCase):
 	pass

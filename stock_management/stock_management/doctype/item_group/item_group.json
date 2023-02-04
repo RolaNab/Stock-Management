@@ -1,25 +1,25 @@
 {
  "actions": [],
  "allow_rename": 1,
- "autoname": "field:group_name",
- "creation": "2023-02-04 19:06:25.993972",
+ "autoname": "field:item_group_name",
+ "creation": "2023-02-05 00:52:45.588189",
  "doctype": "DocType",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [
-  "group_name"
+  "item_group_name"
  ],
  "fields": [
   {
-   "fieldname": "group_name",
+   "fieldname": "item_group_name",
    "fieldtype": "Data",
-   "label": "Group Name",
+   "label": "Item Group Name",
    "unique": 1
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2023-02-04 19:09:24.068855",
+ "modified": "2023-02-05 00:53:03.832713",
  "modified_by": "Administrator",
  "module": "Stock Management",
  "name": "Item Group",
